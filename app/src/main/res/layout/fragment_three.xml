@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".threeFragment">
+
+    <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kendal"
+                android:textStyle="bold"
+                android:textSize="25sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama Kendal diambil dari nama sebuah
+                pohon yakni Pohon Kendal. Pohon itu pada mulanya tidak
+                ada yang tahu namanya tetapi ketika Pakuwojo bersembunyi
+                di pohon itu di dalam pohon itu terang benderang akhirnya
+                pohon itu dinamakan pohon Qondhali yang berarti penerang
+                dan akhirnya daerah tempat pohon itu dinamakan Qondhali
+                karena orang Jawa tidak fasih berbahasa Arab maka jadi Kendal.
+                Pohon yang berdaun rimbun itu sudah dikenal sejak masa Kerajaan
+                Demak pada tahun 1500 - 1546 M yaitu pada masa Pemerintahan Sultan Trenggono.
+                Pada awal pemerintahannya tahun 1521, Sultan Trenggono pernah memerintah
+                Sunan Katong untuk memesan Pusaka kepada Pakuwojo. "
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Peristiwa yang menimbulkan pertentangan
+                dan mengakibatkan kematian itu tercatat dalam Prasasti.
+                Bahkan hingga sekarang makam kedua tokoh dalam sejarah
+                Kendal yang berada di Desa Protomulyo Kecamatan Kaliwungu
+                itu masih dikeramatkan masyarakat secara luas.
+                Menurut kisah, Sunan Katong pernah terpana memandang
+                keindahan dan kerindangan pohon Kendal yang tumbuh di
+                lingkungan sekitar. Sambil menikmati pemandangan pohon Kendal
+                yang tampak Sari itu, Dia menyebut bahwa di daerah tersebut
+                kelak bakal disebut Kalisari. Pohon besar yang oleh warga
+                masyarakat disebut-sebut berada di pinggir Jalan Pemuda K
+                endal itu juga dikenal dengan nama Kendal Growong karena
+                 batangnya berlubang atau growong."
+                android:textSize="12sp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dari kisah tersebut diketahui bahwa nama Kendal dipakai
+                untuk menyebutkan suatu wilayah atau daerah setelah Sunan Katong menyebutnya.
+                Kisah penyebutan nama itu didukung oleh berita-berita perjalanan Orang-orang
+                Portugis yang oleh Tom Peres dikatakan bahwa pada abad ke 15 di Pantai Utara
+                Jawa terdapat Pelabuhan terkenal yaitu Semarang, Tegal dan Kendal.
+                Bahkan oleh Dr. H.J. Graaf dikatakan bahwa pada abad 15 dan 16 sejarah
+                Pesisir Tanah Jawa itu memiliki yang arti sangat penting."
+                android:textSize="12sp"/>
+
+    </LinearLayout>
+
+</FrameLayout>
